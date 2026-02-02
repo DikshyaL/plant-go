@@ -1,5 +1,4 @@
 
-Perfect! Here's a **clean `README.md`** just for using **Cargo** to build and run your Solana program, without any Anchor references:
 
 ````markdown
 # Iodex - Solana Project
@@ -159,14 +158,3 @@ iodex/
 
 ---
 
-Made with ❤️ by Sabin Ranabhat
-
-```
-
----
-
-If you want, I can **also add a small “How to run a transaction script” section** that shows how to call your program after deploying, purely using Cargo + Rust. It makes the README fully runnable.  
-
-Do you want me to do that?
-```
-``
